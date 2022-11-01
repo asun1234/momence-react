@@ -8,7 +8,7 @@ Cd into my-app.
 
 ### `npm install`
 
-Installs all dependencies and builds node_modules.\
+Installs all dependencies and builds node_modules.
 
 ### `npm start`
 
@@ -24,7 +24,7 @@ Open a new tab in terminal and cd into server from my-app.
 
 ### `npm install`
 
-Installs all dependencies and builds node_modules.\
+Installs all dependencies and builds node_modules.
 
 ### `npm start`
 
